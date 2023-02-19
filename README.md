@@ -18,9 +18,9 @@ Ingeniero de Sistemas, entusiasta del desarrollo web 💻
 Mis intereses como ingeniero son el desarrollo web y aplicaciones.
 
 ## Lenguajes y herramientas 🛠️
-![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/master/img/html.png)
-![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/master/img/css.png)
-![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/master/img/js.png)
-![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/master/img/php.png)
-![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/master/img/c.png)
-![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/master/img/git.png)
+![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/main/img/html.png)
+![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/main/img/css.png)
+![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/main/img/js.png)
+![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/main/img/php.png)
+![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/main/img/c.png)
+![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/main/img/git.png)
