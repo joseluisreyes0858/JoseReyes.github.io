@@ -4,8 +4,8 @@ Ingeniero de Sistemas, entusiasta del desarrollo web 💻
 
 ## Sobre mí  👨🏻‍💻
 - Vivo en Cali - Colombia
-- Recién me gradué como ingeniero de sistemas en la Corporación Universitaria Unicomfacauca y me encuentro reforzando algunos conocimientos con ayuda del Platzi
-- Actualmente no me encuentro laborando en el mundo Tech, por el momento trabajo como auxiliar administrativo y este empleo me ha ayudado mucho a construir y reafianzar habilidades blandas como:
+- Ingeniero de sistemas en la Corporación Universitaria Unicomfacauca, me encuentro reforzando y puliendo mis conocimientos en el desarrollo web ayudándome de cursos y participando en un Bootcamp llamado OpenBootcamp.
+- Actualmente no me encuentro laborando en el mundo Tech, por el momento trabajo como auxiliar administrativo y este empleo me ha ayudado mucho a adquirir y reafianzar habilidades blandas como:
   + Trabajo en equipo
   + Gestión de conflictos
   + Gestión del tiempo
@@ -15,7 +15,7 @@ Ingeniero de Sistemas, entusiasta del desarrollo web 💻
   + Inteligencia emocional
 
 ## Sobre mí 😎
-Mis intereses como ingeniero son el desarrollo web y aplicaciones.
+Mis intereses como ingeniero son el desarrollo web y de aplicaciones.
 
 ## Lenguajes y herramientas 🛠️
 ![Image text](https://github.com/josereyes-dev/josereyes-dev/blob/main/img/html.png)
