@@ -4,7 +4,7 @@ Ingeniero de Sistemas, entusiasta del desarrollo web 💻
 
 ## Sobre mí  👨🏻‍💻
 - Vivo en Cali - Colombia
-- Ingeniero de sistemas en la Corporación Universitaria Unicomfacauca, me encuentro reforzando y puliendo mis conocimientos en el desarrollo web ayudándome de cursos y participando en un Bootcamp llamado OpenBootcamp.
+- Ingeniero de sistemas de la Corporación Universitaria Unicomfacauca, me encuentro reforzando y puliendo mis conocimientos en el desarrollo web ayudándome de cursos y participando en un Bootcamp llamado OpenBootcamp.
 - Actualmente no me encuentro laborando en el mundo Tech, por el momento trabajo como auxiliar administrativo y este empleo me ha ayudado mucho a adquirir y reafianzar habilidades blandas como:
   + Trabajo en equipo
   + Gestión de conflictos
