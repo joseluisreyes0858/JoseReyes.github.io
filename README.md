@@ -15,7 +15,7 @@ Soy Ingeniero de Sistemas, me encuentro reforzando y puliendo mis conocimientos 
 
 :raising_hand: Estoy deseando colaborar en proyectos de código abierto.
 
-📫 Contáctame en:joseluisreyes0858@gmail.com
+📫 Contáctame en: joseluisreyes0858@gmail.com
 
 ## Mis habilidades incluyen
 
